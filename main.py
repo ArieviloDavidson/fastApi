@@ -6,7 +6,7 @@ from fastapi import FastAPI
 from fastapi.responses import HTMLResponse
 
 # Importando utilitários
-from mainHtml import main_html_content
+from utils.mainHtml import main_html_content
 
 # Criando a aplicação FastAPI
 app = FastAPI()
