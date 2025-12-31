@@ -4,6 +4,8 @@
 
 ```bash
 git clone https://github.com/ArieviloDavidson/fastApi.git
+```
+```bash
 cd fastApi
 ```
 
