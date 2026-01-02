@@ -13,7 +13,22 @@ cd fastApi
 - Opcional - Criar ambiente virtual
 
 ```bash
-pip install requirements.txt
+python -m venv venv
+```
+
+***windows***
+```bash
+.\venv\Scripts\activate
+```
+***git bash***
+```bash
+source ./venv/Scripts/activate
+```
+
+***dependências***
+
+```bash
+pip install -r requirements.txt
 ```
 
 ## Passo 3: Execute o aplicativo
